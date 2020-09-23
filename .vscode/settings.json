@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "D:\\tools_module\\anaconda3\\envs\\py3.7\\python.exe"
+    　　"python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.lintOnSave": true,
+    "python.formatting.provider": "yapf"
+}
